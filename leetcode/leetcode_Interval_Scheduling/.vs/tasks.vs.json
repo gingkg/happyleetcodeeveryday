@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-leetcode_Interval_Scheduling",
+      "appliesTo": "leetcode_Interval_Scheduling.sln",
+      "type": "launch"
+    }
+  ]
+}

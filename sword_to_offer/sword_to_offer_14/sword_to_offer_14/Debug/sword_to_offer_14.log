@@ -1,0 +1,8 @@
+﻿  sword_to_offer_14.cpp
+D:\sby\C++Files\happyleetcodeeveryday\sword_to_offer\sword_to_offer_14\sword_to_offer_14\sword_to_offer_14.cpp(55,23): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\sby\C++Files\happyleetcodeeveryday\sword_to_offer\sword_to_offer_14\sword_to_offer_14\sword_to_offer_14.cpp(59,34): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\sby\C++Files\happyleetcodeeveryday\sword_to_offer\sword_to_offer_14\sword_to_offer_14\sword_to_offer_14.cpp(62,30): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\sby\C++Files\happyleetcodeeveryday\sword_to_offer\sword_to_offer_14\sword_to_offer_14\sword_to_offer_14.cpp(94,24): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+D:\sby\C++Files\happyleetcodeeveryday\sword_to_offer\sword_to_offer_14\sword_to_offer_14\sword_to_offer_14.cpp(113,23): warning C4307: “*”: 有符号整型常量溢出
+D:\sby\C++Files\happyleetcodeeveryday\sword_to_offer\sword_to_offer_14\sword_to_offer_14\sword_to_offer_14.cpp(114,24): warning C4307: “*”: 有符号整型常量溢出
+  sword_to_offer_14.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\sword_to_offer\sword_to_offer_14\Debug\sword_to_offer_14.exe

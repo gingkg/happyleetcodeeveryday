@@ -1,0 +1,4 @@
+﻿  leetcode_477_Total_Hamming_Distance.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_bit_manipulation\leetcode_477_Total_Hamming_Distance\leetcode_477_Total_Hamming_Distance.cpp(44,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_bit_manipulation\leetcode_477_Total_Hamming_Distance\leetcode_477_Total_Hamming_Distance.cpp(45,35): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode_477_Total_Hamming_Distance.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_bit_manipulation\Debug\leetcode_477_Total_Hamming_Distance.exe

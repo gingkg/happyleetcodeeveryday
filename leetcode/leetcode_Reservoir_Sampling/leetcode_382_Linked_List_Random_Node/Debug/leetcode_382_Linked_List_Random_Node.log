@@ -1,0 +1,4 @@
+﻿  leetcode_382_Linked_List_Random_Node.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_Reservoir_Sampling\leetcode_382_Linked_List_Random_Node\leetcode_382_Linked_List_Random_Node.cpp(48,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_Reservoir_Sampling\leetcode_382_Linked_List_Random_Node\leetcode_382_Linked_List_Random_Node.cpp(107,23): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode_382_Linked_List_Random_Node.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_Reservoir_Sampling\Debug\leetcode_382_Linked_List_Random_Node.exe

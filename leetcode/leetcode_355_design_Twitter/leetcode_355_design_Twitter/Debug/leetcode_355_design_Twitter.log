@@ -1,0 +1,8 @@
+﻿  Twitter.cpp
+  leetcode_355_design_Twitter.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_355_design_Twitter\leetcode_355_design_Twitter\leetcode_355_design_Twitter.cpp(62,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_355_design_Twitter\leetcode_355_design_Twitter\leetcode_355_design_Twitter.cpp(67,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_355_design_Twitter\leetcode_355_design_Twitter\leetcode_355_design_Twitter.cpp(76,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_355_design_Twitter\leetcode_355_design_Twitter\leetcode_355_design_Twitter.cpp(85,23): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  leetcode_355_design_Twitter.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_355_design_Twitter\Debug\leetcode_355_design_Twitter.exe

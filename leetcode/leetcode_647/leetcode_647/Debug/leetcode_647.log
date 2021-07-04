@@ -1,0 +1,7 @@
+﻿  leetcode_647.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_647\leetcode_647\leetcode_647.cpp(40,27): warning C4018: “<=”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_647\leetcode_647\leetcode_647.cpp(41,31): warning C4018: “<=”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_647\leetcode_647\leetcode_647.cpp(67,35): warning C4018: “<=”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_647\leetcode_647\leetcode_647.cpp(83,42): warning C4018: “<=”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_647\leetcode_647\leetcode_647.cpp(114,27): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode_647.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_647\Debug\leetcode_647.exe

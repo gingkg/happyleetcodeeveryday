@@ -1,0 +1,4 @@
+﻿  leetcode_398_Random_Pick_Index.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_Reservoir_Sampling\leetcode_398_Random_Pick_Index\leetcode_398_Random_Pick_Index.cpp(38,19): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_Reservoir_Sampling\leetcode_398_Random_Pick_Index\leetcode_398_Random_Pick_Index.cpp(44,27): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode_398_Random_Pick_Index.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_Reservoir_Sampling\Debug\leetcode_398_Random_Pick_Index.exe

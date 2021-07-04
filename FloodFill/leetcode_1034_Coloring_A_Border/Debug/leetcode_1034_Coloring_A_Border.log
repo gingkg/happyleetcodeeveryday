@@ -1,0 +1,8 @@
+﻿  leetcode_1034_Coloring_A_Border.cpp
+D:\sby\C++Files\happyleetcodeeveryday\FloodFill\leetcode_1034_Coloring_A_Border\leetcode_1034_Coloring_A_Border.cpp(77,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\FloodFill\leetcode_1034_Coloring_A_Border\leetcode_1034_Coloring_A_Border.cpp(78,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\FloodFill\leetcode_1034_Coloring_A_Border\leetcode_1034_Coloring_A_Border.cpp(89,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\FloodFill\leetcode_1034_Coloring_A_Border\leetcode_1034_Coloring_A_Border.cpp(90,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\FloodFill\leetcode_1034_Coloring_A_Border\leetcode_1034_Coloring_A_Border.cpp(105,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\FloodFill\leetcode_1034_Coloring_A_Border\leetcode_1034_Coloring_A_Border.cpp(106,27): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode_1034_Coloring_A_Border.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\FloodFill\Debug\leetcode_1034_Coloring_A_Border.exe

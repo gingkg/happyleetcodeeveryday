@@ -1,0 +1,4 @@
+﻿  leetcode_416.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_416\leetcode_416\leetcode_416.cpp(30,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_416\leetcode_416\leetcode_416.cpp(72,27): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode_416.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_416\Debug\leetcode_416.exe

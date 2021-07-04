@@ -1,0 +1,5 @@
+﻿  leetcode_567.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_567\leetcode_567\leetcode_567.cpp(33,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_567\leetcode_567\leetcode_567.cpp(42,33): warning C4018: “>=”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_567\leetcode_567\leetcode_567.cpp(68,27): warning C4018: “<=”: 有符号/无符号不匹配
+  leetcode_567.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_567\Debug\leetcode_567.exe

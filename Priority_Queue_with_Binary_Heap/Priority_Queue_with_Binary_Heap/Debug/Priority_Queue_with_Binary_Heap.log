@@ -1,0 +1,16 @@
+﻿  MaxPQ.cpp
+  Priority_Queue_with_Binary_Heap.cpp
+D:\sby\C++Files\happyleetcodeeveryday\Priority_Queue_with_Binary_Heap\Priority_Queue_with_Binary_Heap\MaxPQ.h(84,17): warning C4244: “参数”: 从“double”转换到“const unsigned int”，可能丢失数据
+D:\sby\C++Files\happyleetcodeeveryday\Priority_Queue_with_Binary_Heap\Priority_Queue_with_Binary_Heap\MaxPQ.h(80): message : 在编译 类 模板 成员函数“void MaxPQ<int>::insert(T)”时
+          with
+          [
+              T=int
+          ]
+D:\sby\C++Files\happyleetcodeeveryday\Priority_Queue_with_Binary_Heap\Priority_Queue_with_Binary_Heap\Priority_Queue_with_Binary_Heap.cpp(15): message : 查看对正在编译的函数 模板 实例化“void MaxPQ<int>::insert(T)”的引用
+          with
+          [
+              T=int
+          ]
+D:\sby\C++Files\happyleetcodeeveryday\Priority_Queue_with_Binary_Heap\Priority_Queue_with_Binary_Heap\Priority_Queue_with_Binary_Heap.cpp(13): message : 查看对正在编译的 类 模板 实例化“MaxPQ<int>”的引用
+  正在生成代码...
+  Priority_Queue_with_Binary_Heap.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\Priority_Queue_with_Binary_Heap\Debug\Priority_Queue_with_Binary_Heap.exe

@@ -1,0 +1,4 @@
+﻿  monotonous_stack.cpp
+D:\sby\C++Files\happyleetcodeeveryday\monotonous_stack\monotonous_stack\monotonous_stack.cpp(83,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\monotonous_stack\monotonous_stack\monotonous_stack.cpp(87,23): warning C4018: “<”: 有符号/无符号不匹配
+  monotonous_stack.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\monotonous_stack\Debug\monotonous_stack.exe

@@ -1,0 +1,4 @@
+﻿  leetcode_322.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_322\leetcode_322\leetcode_322.cpp(33,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_322\leetcode_322\leetcode_322.cpp(41,27): warning C4018: “<”: 有符号/无符号不匹配
+  leetcode_322.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_322\Debug\leetcode_322.exe

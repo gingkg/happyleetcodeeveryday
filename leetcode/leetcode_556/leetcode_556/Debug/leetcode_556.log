@@ -1,0 +1,7 @@
+﻿  leetcode_556.cpp
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_556\leetcode_556\leetcode_556.cpp(48,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_556\leetcode_556\leetcode_556.cpp(70,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_556\leetcode_556\leetcode_556.cpp(73,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_556\leetcode_556\leetcode_556.cpp(74,23): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+D:\sby\C++Files\happyleetcodeeveryday\leetcode_556\leetcode_556\leetcode_556.cpp(81,20): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  leetcode_556.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\leetcode_556\Debug\leetcode_556.exe

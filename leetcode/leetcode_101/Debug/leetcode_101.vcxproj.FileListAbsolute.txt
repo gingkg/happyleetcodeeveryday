@@ -1,0 +1,2 @@
+D:\C++Files\happyleetcodeeveryday\leetcode_101\Debug\leetcode_101.exe
+D:\C++Files\happyleetcodeeveryday\leetcode_101\Debug\leetcode_101.pdb
