@@ -1,0 +1,4 @@
+﻿  3_Order_of_task.cpp
+D:\sby\C++Files\happyleetcodeeveryday\LC\3_Order_of_task\3_Order_of_task\3_Order_of_task.cpp(92,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\sby\C++Files\happyleetcodeeveryday\LC\3_Order_of_task\3_Order_of_task\3_Order_of_task.cpp(144,23): warning C4018: “<”: 有符号/无符号不匹配
+  3_Order_of_task.vcxproj -> D:\sby\C++Files\happyleetcodeeveryday\LC\3_Order_of_task\Debug\3_Order_of_task.exe
